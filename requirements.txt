@@ -1,0 +1,2 @@
+flet==0.22.1
+Levenshtein==0.25.0
