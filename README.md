@@ -3,6 +3,7 @@ An ms word clone in this read me i explain each aspect of the program
 
 # Table of content
 - [Editview explanation](#readme-for-edit-note-view)
+- [Issues](#potential-problems--solutions)
 
 To run the app:
 ```
@@ -84,3 +85,23 @@ page.controls.append(note_view)
 
 ## License
 This project is open-source and free to use under the MIT License.
+
+# Potential Problems & Solutions
+
+- **Handling Large Pages of Text:**  
+  Issue: Parsing large text blocks can be problematic.  
+  Solution: Implement a pageification feature to split large text into manageable chunks.
+
+- **Tedious Interface:**  
+  Issue: The current interface can feel tedious.  
+  Solution: An improved version is in development. If you'd like to contribute, feel free to reach out through a comment on my video or connect with me on Discord.
+
+- **Updating Controls:**  
+  Issue: Many controls need updates to align with the new changes implemented on Flet.
+
+- **User Guide:**  
+  Solution: Create and include a comprehensive user guide.
+
+- **Save Feature:**  
+  Solution: Add a save feature that stores data in a clear, easy-to-read format, and develop a parser for seamless readability.
+
