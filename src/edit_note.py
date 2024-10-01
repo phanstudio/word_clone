@@ -30,19 +30,22 @@ class EditNoteView(ft.Column):
     def header(self):
         self.tit = ft.Ref[ft.TextField]()
         head = ft.Row([
-            ft.IconButton(icon= ft.icons.CHEVRON_LEFT, icon_color= GOLD,
-                on_click= self.onback),
-            ft.TextField(value=self.head.title(), 
-                      ref = self.tit,
-                      dense= True,
-                      width = 200,
-                      multiline= True,
-                      border= ft.InputBorder.NONE,
-                      text_align= 'center',
-                      text_style= ft.TextStyle(
-                            weight=  BOLD,
-                        ),
-                    ),
+            ft.IconButton(
+                icon= ft.icons.SAVE, 
+                icon_color= GOLD,
+            ),
+            ft.TextField(
+                value=self.head.title(), 
+                ref = self.tit,
+                dense= True,
+                width = 200,
+                multiline= True,
+                border= ft.InputBorder.NONE,
+                text_align= 'center',
+                text_style= ft.TextStyle(
+                    weight=  BOLD,
+                ),
+            ),
             ft.IconButton(icon= ft.icons.HELP, icon_color= GOLD,
                 on_click= lambda _: print('#')),
             ], alignment= ft.MainAxisAlignment.SPACE_BETWEEN)
