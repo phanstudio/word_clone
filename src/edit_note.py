@@ -50,6 +50,3 @@ class EditNoteView(ft.Column):
                 on_click= lambda _: print('#')),
             ], alignment= ft.MainAxisAlignment.SPACE_BETWEEN)
         return head
-    
-    def onback(self, e: ft.ControlEvent):
-        ...
