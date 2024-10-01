@@ -1,14 +1,19 @@
-# Demo MsWord Clone
-An ms word clone in this read me i explain each aspect of the program
-
-# Table of content
-- [Editview explanation](#readme-for-edit-note-view)
-- [Issues](#potential-problems--solutions)
+# MS Word Clone: Overview
+In this README, I will explain the various features and aspects of the program.
 
 To run the app:
 ```
 flet run
 ```
+
+# Table of content
+- [Editview explanation](#readme-for-edit-note-view)
+- [Issues](#potential-problems--solutions)
+
+## youtube link
+
+[![Word Clone Showcase](https://img.youtube.com/vi/X4m80PBSb-k/0.jpg)](https://youtube.com/shorts/X4m80PBSb-k)
+
 
 # README for Edit Note View
 ## Overview
@@ -98,9 +103,9 @@ This project is open-source and free to use under the MIT License.
 - [ ] **Updating Controls:**  
   Issue: Many controls need updates to align with the new changes implemented on Flet.
 
-- **User Guide:**  
+- [ ] **User Guide:**  
   Solution: Create and include a comprehensive user guide.
 
-- **Save Feature:**  
+- [ ] **Save Feature:**  
   Solution: Add a save feature that stores data in a clear, easy-to-read format, and develop a parser for seamless readability.
 
