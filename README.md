@@ -10,7 +10,7 @@ flet run
 - [Editview explanation](#readme-for-edit-note-view)
 - [Issues](#potential-problems--solutions)
 
-## youtube link
+## Youtube link
 
 [![Word Clone Showcase](https://img.youtube.com/vi/X4m80PBSb-k/0.jpg)](https://youtube.com/shorts/X4m80PBSb-k)
 
