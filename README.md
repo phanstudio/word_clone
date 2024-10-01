@@ -81,22 +81,21 @@ page.controls.append(note_view)
 ## Features to Add
 - **Save and Load**: Implement saving and loading notes functionality, possibly using file storage or a database.
 - **Help Button Action**: Customize the help button to display instructions or guide the user.
-- **Back Button**: Add navigation functionality using the `onback()` method.
 
 ## License
 This project is open-source and free to use under the MIT License.
 
 # Potential Problems & Solutions
 
-- **Handling Large Pages of Text:**  
+- [ ] **Handling Large Pages of Text:**  
   Issue: Parsing large text blocks can be problematic.  
   Solution: Implement a pageification feature to split large text into manageable chunks.
 
-- **Tedious Interface:**  
+- [ ] **Tedious Interface:**  
   Issue: The current interface can feel tedious.  
   Solution: An improved version is in development. If you'd like to contribute, feel free to reach out through a comment on my video or connect with me on Discord.
 
-- **Updating Controls:**  
+- [ ] **Updating Controls:**  
   Issue: Many controls need updates to align with the new changes implemented on Flet.
 
 - **User Guide:**  
