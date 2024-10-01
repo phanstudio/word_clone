@@ -2,6 +2,7 @@
 An ms word clone in this read me i explain each aspect of the program
 
 # Table of content
+[readme for edit view](#readme for Edit Note View)
 
 To run the app:
 ```
