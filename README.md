@@ -2,12 +2,13 @@
 An ms word clone in this read me i explain each aspect of the program
 
 # Table of content
-[edit vie explanation](#readme-for-edit-note-view)
+- [Editview explanation](#readme-for-edit-note-view)
 
 To run the app:
 ```
 flet run
 ```
+
 # README for Edit Note View
 ## Overview
 The **EditNoteView** class is part of a note-taking application built using the **Flet** framework. It provides a user interface for editing and formatting text, with a toolbar for applying text styles and an editor to capture user input. The view is designed for users to create and modify notes with ease, while supporting functionalities like text formatting, saving, and more.
