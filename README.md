@@ -10,13 +10,13 @@ flet run
 - [Editview explanation](#readme-for-edit-note-view)
 - [Issues](#potential-problems--solutions)
 
-## Youtube link
+## 💖Youtube link
 
 [![Word Clone Showcase](https://img.youtube.com/vi/X4m80PBSb-k/0.jpg)](https://youtube.com/shorts/X4m80PBSb-k)
 
 
 # README for Edit Note View
-## Overview
+## Overview 🔎
 The **EditNoteView** class is part of a note-taking application built using the **Flet** framework. It provides a user interface for editing and formatting text, with a toolbar for applying text styles and an editor to capture user input. The view is designed for users to create and modify notes with ease, while supporting functionalities like text formatting, saving, and more.
 
 ## Key Components
